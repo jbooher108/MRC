@@ -5,7 +5,7 @@
 Anon 866, David Johnston (Smart Agents), Anton (antonb), Anon (lachsbagel), Christopher (storm.father), Jon (jonisjon), Maxwell (scott_b_), Jeff (Jabo38), Luke (lukestokes), Erik Voorhees (erikvoorhees), Stan909 (chasingdreams)
    
 ### Authors of Proposals On Related Subjects / MRCs: 
-- Mechaverse with [MRC 36](https://github.com/MorpheusAIs/MRC/blob/main/MRC36.md) 
+- Mechaverse with [MRC 36](https://github.com/MorpheusAIs/MRC/blob/main/closed/MRC36.md) 
 - Kehndry - Extensive feedback and alternative proposals on Time Curves.
 - David Johnston - With [MRC22](https://github.com/MorpheusAIs/MRC/blob/main/IN%20PROGRESS/MRC22.md)
 
@@ -30,11 +30,11 @@ This Power Factor mirrors the the Delution rate the Contributor experiences whil
 - MRC40 & MRC41: MOR Staking of Existing MOR (Compute & Builders)
 - Whitepaper: Morpheus Users. Stake MOR for access to Compute.
 
-### [MRC 38: Code Providers](/IN%20PROGRESS/MRC38.md)
+### [MRC 38: Code Providers](/IMPLEMENTED/MRC38.md)
 - A. Add Code Contributions to earn MOR.
 - B. Staking of MOR rewards into the future to increase proportionality.
 
-### [MRC 39: Contributing Capital](/IN%20PROGRESS/MRC39.md)
+### [MRC 39: Contributing Capital](/IMPLEMENTED/MRC39.md)
 - A. Deposits of stETH and the resulting yield contributed to Morpheus earn MOR.
 - B. Staking of MOR rewards into the future to increase proportionality.
 
@@ -42,7 +42,7 @@ This Power Factor mirrors the the Delution rate the Contributor experiences whil
 - A. Existing MOR Staked to qualify to earn MOR. Stake 100 MOR for 1 Year. Earn up to 100 MOR.
 - B. Staking of MOR rewards into the future to increase reputation ranking.
 
-### [MRC 41: App / Smart Agent Builders](/PENDING/MRC41.md)
+### [MRC 41: App / Smart Agent Builders](/IN%20PROGRESS/MRC41.md)
 - A. Existing MOR Staked to qualify to earn MOR rewards.
 - B. Staking of MOR rewards into the future to increase proportionality.
 
@@ -101,10 +101,10 @@ The result of this multiplication is then divided by the total stETH * Power or 
 These MRCs stand for how to implement Time as a function for each of the four core proofs of Morpheus.  
 Code, Capital, Compute and Builders. However the principle is the same across all four and should hold generally.
 
-- **Code MRC 38:** https://github.com/MorpheusAIs/MRC/blob/main/IN%20PROGRESS/MRC38.md
-- **Capital MRC 39:** https://github.com/MorpheusAIs/MRC/blob/main/IN%20PROGRESS/MRC39.md
+- **Code MRC 38:** https://github.com/MorpheusAIs/MRC/blob/main/IMPLEMENTED/MRC38.md
+- **Capital MRC 39:** https://github.com/MorpheusAIs/MRC/blob/main/IMPLEMENTED/MRC39.md
 - **Compute MRC 40:** https://github.com/MorpheusAIs/MRC/blob/main/IN%20PROGRESS/MRC40.md
-- **Builders MRC 41:** https://github.com/MorpheusAIs/MRC/blob/main/PENDING/MRC41.md
+- **Builders MRC 41:** https://github.com/MorpheusAIs/MRC/blob/main/IN%20PROGRESS/MRC41.md
 
 ## Conclusion: To quote Paul Graham:
 - "If your opponents are opportunists, one way to beat them is to outlast them. 
