@@ -5,7 +5,7 @@
 Anon 866, David Johnston (Smart Agents), Anton (antonb), Anon (lachsbagel), Christopher (storm.father), Jon (jonisjon), Maxwell (scott_b_), Jeff (Jabo38), Luke (lukestokes), Erik Voorhees (erikvoorhees), Stan909 (chasingdreams)
    
 ### Authors of Proposals On Related Subjects / MRCs: 
-- Mechaverse with [MRC 36](https://github.com/MorpheusAIs/MRC/blob/main/CLOSED/MRC36.md)) 
+- Mechaverse with [MRC 36](https://github.com/MorpheusAIs/MRC/blob/main/CLOSED/MRC36.md)
 - Kehndry - Extensive feedback and alternative proposals on Time Curves.
 - David Johnston - With [MRC22](https://github.com/MorpheusAIs/MRC/blob/main/IN%20PROGRESS/MRC22.md)
 
